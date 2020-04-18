@@ -174,7 +174,7 @@ namespace ADO.NET.Lesson7_LINQ
 
         /*f.	Создать запрос с использованием ключевого слова «into»,  
          * где в первом запросе должны вывестись следующие данные: 
-         * ParentId, FullName, ParentId, Dependence, далее во втором
+         * ParentId, FullName, ParentId, Dependence, далее во втором 
          * запросе отобразить только те зоны у которых Dependence > 0.*/
         static void ShowF() 
         {
